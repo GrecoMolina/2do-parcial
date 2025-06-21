@@ -1,0 +1,15 @@
+div {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  border: 2px solid blue;
+  padding: 10px;
+  margin: 15px;
+}
+
+#modeloCaja {
+  background-color: lightgreen;
+  border: 3px solid green;
+  padding: 20px;
+  margin: 20px;
+}
